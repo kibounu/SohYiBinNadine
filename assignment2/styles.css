@@ -14,3 +14,39 @@ body {
 }
 
 /* Add in your own customisations */
+
+header {
+    background-color: #93d0f4;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color: #0079c1;
+}
+
+footer {
+    background-color: #93d0f4;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+h2 {
+    font-family: Geogia, serif;
+}
